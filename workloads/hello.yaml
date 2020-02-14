@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: vinycoolguy/gitops:hellov1.2.2
+        image: vinycoolguy/gitops:hellov1.3.2
